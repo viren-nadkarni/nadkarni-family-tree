@@ -1,0 +1,53 @@
+\documentclass[a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+
+\usepackage[UKenglish]{babel}
+\usepackage[UKenglish]{isodate}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{incgraph}
+\usepackage[all]{genealogytree}
+
+\hypersetup{
+	pdftitle={Bendkar Nadkarni Family Tree},
+	pdfauthor={Viren Nadkarni}
+}
+
+\begin{document}
+	\begin{inctext}
+	\begin{tikzpicture}
+		\genealogytreeinput[
+			template=database traditional,
+		]{nadkarni.graph}
+		
+		\path
+		([xshift=-1cm,yshift=-1.16cm]current bounding box.south west)
+		rectangle ([xshift=1.16cm,yshift=1cm]current bounding box.north east);
+		
+		\path[draw=black,line width=1pt,rounded corners=6pt]
+		([xshift=3mm,yshift=3mm]current bounding box.south west)
+		rectangle ([xshift=-3mm,yshift=-3mm]current bounding box.north east);
+		
+		\node[below right] at ([xshift=1cm,yshift=-1cm]current bounding box.north west) {
+			\begin{tcolorbox}[
+				enhanced,
+				width=12cm,
+				boxrule=0.4pt,
+				arc=2pt,
+				colframe=black,
+				segmentation style={solid,shorten >=3mm,shorten <=3mm},
+			]
+				\begin{center}
+					\bfseries\Large\color{black} Bendkar Nadkarni
+				\end{center}
+
+				\href{https://github.com/viren-nadkarni/nadkarni-family-tree}{https://github.com/viren-nadkarni/nadkarni-family-tree} \\
+				Version 2022-12-10
+			\end{tcolorbox}
+		};		
+	\end{tikzpicture}
+\end{inctext}
+
+\end{document}
