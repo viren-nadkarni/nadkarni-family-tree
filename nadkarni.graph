@@ -31,7 +31,7 @@ child{
                         child{
                             p{
                                 female,
-                                name = {Radha ??}
+                                name = {Radha \surn{Sardessai}}
                             }
                             g{
                                 male,
@@ -41,26 +41,32 @@ child{
                                 g{
                                     male,
                                     name = {Sripad \nick{Pado}},
-                                    death += {}{}{typhoid}
+                                    death += {}{}{typhoid},
+                                    comment = {worked in Canacona, contracted typhoid at work}
                                 }
                                 p{
                                     female,
-                                    name = {Shantai Kenkre}
+                                    name = {Shanta \surn{Kenkre}},
+                                    comment = {convinced Anant to remarry after death of Sripad, raised Dinanath}
+                                }
+                                c{
+                                    female,
+                                    name = {??},
                                 }
                             }
                             union{
                                 p{
                                     female,
-                                    name = {?? \nick{Akka} \surn{Malkarnekar}}
+                                    name = {?? \nick{Aka} \surn{Chodnekar}}
                                 }
                                 c{
                                     female,
-                                    name = {Kama \surn{Saraf}}
+                                    name = {Sita \nick{Kama} \surn{Saraf}}
                                 }
                                 c{
                                     female,
-                                    name = {Vitabai ??},
-                                    death += {}{}{childhood}
+                                    name = {Vita},
+                                    death += {}{}{typhoid}
                                 }
                                 c{
                                     female,
@@ -73,11 +79,12 @@ child{
                                     }
                                     p{
                                         female,
-                                        name = {Sumanbai \nick{Bai} \surn{Malkarnekar}}
+                                        name = {Sumanbai \nick{Bai} \surn{Malkarnekar}},
+                                        death += {2016}{}{}
                                     }
                                     c{
                                         female,
-                                        name = {Sushma \surn{Kantak}}
+                                        name = {Sushma \nick{Shanta} \surn{Kantak}}
                                     }
                                     child{
                                         g{
