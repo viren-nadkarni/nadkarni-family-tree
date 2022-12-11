@@ -1,390 +1,538 @@
 child{
-	g{
-		name = {}
-	}
-	child{
-		g{
-			name = {Vyankaji}
-		}
-		child{
-			g{
-				name = {Abaji}
-			}
-			child{
-				g{
-					name = {Royu}
-				}
-				child{
-					g{
-						name = {Bhaskar \nick{Bhasubaab}}
-					}
-					child{
-						g{
-							name = {Purshottam}
-						}
-						child{
-							g{
-								name = {Anant \nick{Zallebaab}}
-							}
-							child{
-								g{
-									name = {Dinanath \nick{Dinubaab}}
-								}
-								child{
-									g{
-										name = {Durgadas}
-									}
-									child{
-										g{
-											name = {Tejas}
-										}
-									}
-								}
-								child{
-									g{
-										name = {Sripad}
-									}
-									child{
-										g{
-											name = {Siddhant}
-										}
-									}
-								}
-								child{
-									g{
-										name = {Vijaikumar}
-									}
-									child{
-										g{
-											name = {Viren}
-										}
-									}
-								}
-							}
-							child{
-								g{
-									name = {Sripad \nick{Pado}}
-								}
-							}
-						}
-					}
-					child{
-						g{
-							name = {Sadashiv \nick{Sodubaab}}
-						}
-						child{
-							g{
-								name = {Vasantrao \nick{Bhaskar}}
-							}
-							child{
-								g{
-									name = {Sunil}
-								}
-							}
-							child{
-								g{
-									name = {Sadashiv \nick{Ravi}}
-								}
-								child{
-									g{
-										name = {Sambprasad \nick{Prasad}}
-									}
-								}
-							}
-						}
-					}
-					child{
-						g{
-							name = {Vishnu \nick{Bhajebaab}}
-						}
-						child{
-							g{
-								name = {Vaman \nick{Kinibaab}}
-							}
-							child{
-								g{
-									name = {Sacchit \nick{Sachi}}
-								}
-							}
-							child{
-								g{
-									name = {Sitaram \nick{Chaka}}
-								}
-							}
-							child{
-								g{
-									name = {Narayan}
-								}
-								child{
-									g{
-										name = {Vaman \nick{Anand}}
-									}
-								}
-								child{
-									g{
-										name = {Hiru}
-									}
-								}
-								child{
-									g{
-										name = {Somnath}
-									}
-									child{
-										g{
-											name = {Narayan \nick{Siddesh}}
-										}
-									}
-								}
-								child{
-									g{
-										name = {Sacchitanand \nick{Maya}}
-									}
-								}
-							}
-							child{
-								g{
-									name = {Vaikunt \nick{Detebaab}}
-								}
-								child{
-									g{
-										name = {Durganand}
-									}
-								}
-								child{
-									g{
-										name = {Kishore}
-									}
-									child{
-										g{
-											name = {Vaikunt \nick{Sairaj}}
-										}
-									}
-								}
-								child{
-									g{
-										name = {Ramakant}
-									}
-								}
-								child{
-									g{
-										name = {Deepak}
-									}
-								}
-							}
-							child{
-								g{
-									name = {Vishvambhar}
-								}
-							}
-							child{
-								g{
-									name = {Bhagwant \nick{Bhobaibaab}}
-								}
-							}
-							child{
-								g{
-									name = {Lakshman \nick{Katubaab}}
-								}
-							}
-						}
-						child{
-							g{
-								name = {Shantaram \nick{Gonibaab}}
-							}
-							child{
-								g{
-									name = {Kashinath \nick{Dada}}
-								}
-							}
-							child{
-								g{
-									name = {Krishna \nick{Kikribaab}}
-								}
-								child{
-									g{
-										name = {Avdhut}
-									}
-								}
-								child{
-									g{
-										name = {Ajit}
-									}
-									child{
-										g{
-											name = {Jayesh}
-										}
-									}
-								}
-							}
-							child{
-								g{
-									name = {Vithu}
-								}
-								child{
-									g{
-										name = {Kamalnath \nick{Kamlaksh}}
-									}
-									child{
-										g{
-											name = {Gaurish}
-										}
-									}
-									child{
-										g{
-											name = {Viresh}
-										}
-									}
-								}
-							}
-							child{
-								g{
-									name = {Ganapati}
-								}
-								child{
-									g{
-										name = {Raghuvir \nick{Babush}}
-									}
-								}
-								child{
-									g{
-										name = {Damodar \nick{Damubaab}}
-									}
-								}
-								child{
-									g{
-										name = {Umanath \nick{Umesh}}
-									}
-									child{
-										g{
-											name = {Nilesh}
-										}
-									}
-									child{
-										g{
-											name = {Sailesh}
-										}
-									}
-								}
-								child{
-									g{
-										name = {Surendra}
-									}
-									child{
-										g{
-											name = {Paresh}
-										}
-									}
-									child{
-										g{
-											name = {Nitesh}
-										}
-									}
-								}
-							}
-						}
-					}
-				}
-				child{
-					g{
-						name = {Hiru \nick{Hirubaab}}
-					}
-					child{
-						g{
-							name = {Rayu}
-						}
-						child{
-							g{
-								name = {Shankar \nick{Shankubaab}}
-							}
-							child{
-								g{
-									name = {Rayu}
-								}
-							}
-							child{
-								g{
-									name = {Dattaram}
-								}
-								child{
-									g{
-										name = {Shankar \nick{Uday}}
-									}
-									child{
-										g{
-											name = {Dattaram \nick{Hanish}}
-										}
-									}
-								}
-								child{
-									g{
-										name = {Prakash}
-									}
-									child{
-										g{
-											name = {Rayu}
-										}
-										child{
-											g{
-												name = {Yogendra}
-											}
-										}
-									}
-								}
-							}
-						}
-					}
-					child{
-						g{
-							name = {Govind}
-						}
-						child{
-							g{
-								name = {Anand}
-							}
-						}
-						child{
-							g{
-								name = {Narshinh}
-							}
-							child{
-								g{
-									name = {Suhas}
-								}
-							}
-							child{
-								g{
-									name = {Avinash}
-								}
-								child{
-									g{
-										name = {Parikshit}
-									}
-								}
-							}
-							child{
-								g{
-									name = {Vinay}
-								}
-							}
-							child{
-								g{
-									name = {Ambarish}
-								}
-							}
-						}
-					}
-				}
-			}
-		}
-	}
-	child{
-		g{
-			name = {Shabaji}
-		}
-		child{
-			g{
-				name = {}
-			}
-		}
-	}
+    g{
+        male,
+        name = {}
+    }
+    child{
+        g{
+            male,
+            name = {Vyankaji}
+        }
+        child{
+            g{
+                male,
+                name = {Abaji}
+            }
+            child{
+                g{
+                    male,
+                    name = {Royu}
+                }
+                child{
+                    g{
+                        male,
+                        name = {Bhaskar \nick{Bhasubaab}}
+                    }
+                    child{
+                        g{
+                            male,
+                            name = {Purshottam}
+                        }
+                        child{
+                            p{
+                                female,
+                                name = {}
+                            }
+                            g{
+                                male,
+                                name = {Anant \nick{Zallebaab}}
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Sripad \nick{Pado}}
+                                }
+                            }
+                            union{
+                                p{
+                                    female,
+                                    name = {}
+                                }
+                                c{
+                                    female,
+                                    name = {Kama}
+                                }
+                                c{
+                                    female,
+                                    name = {Ramma}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Dinanath \nick{Dinubaab}}
+                                    }
+                                    p{
+                                        female,
+                                        name = {Sumanbai \surn{Malkarnekar}}
+                                    }
+                                    c{
+                                        female,
+                                        name = {Sushma \surn{Kantak}}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Durgadas}
+                                        }
+                                        p{
+                                            female,
+                                            name = {Bharti \surn{Bhonsule}}
+                                        }
+                                        c{
+                                            female,
+                                            name = {Srisiddhi \surn{Kamat Satoskar}}
+                                        }
+                                        child{
+                                            g{
+                                                male,
+                                                name = {Tejas}
+                                            }
+                                            p{
+                                                female,
+                                                name = {Isha \surn{Rao}}
+                                            }
+                                        }
+                                    }
+                                    c{
+                                        female,
+                                        name = {Nilima \surn{Mungrey}}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Sripad}
+                                        }
+                                        p{
+                                            female,
+                                            name = {Manuja \surn{Kare}}
+                                        }
+                                        c{
+                                            female,
+                                            name = {Tanusha \surn{Kamat}}
+                                        }
+                                        child{
+                                            g{
+                                                male,
+                                                name = {Siddhant}
+                                            }
+                                            p{
+                                                female,
+                                                name = {Shikha \surn{Usgaonkar}}
+                                            }
+                                        }
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Vijaikumar}
+                                        }
+                                        p{
+                                            female,
+                                            name = {Chandan \surn{Kamat}}
+                                        }
+                                        child{
+                                            g{
+                                                male,
+                                                name = {Viren}
+                                            }
+                                            p{
+                                                female,
+                                                name = {Prachi \surn{Dalvi}}
+                                            }
+                                        }
+                                        c{
+                                            female,
+                                            name = {Shivani \surn{Amonkar}}
+                                        }
+                                    }
+                                }
+                                c{
+                                    female,
+                                    name = {Muktya}
+                                }
+                            }
+                        }
+                    }
+                    child{
+                        g{
+                            male,
+                            name = {Sadashiv \nick{Sodubaab}}
+                        }
+                        child{
+                            g{
+                                male,
+                                name = {Vasantrao \nick{Bhaskar}}
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Sunil}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Sadashiv \nick{Ravi}}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Sambprasad \nick{Prasad}}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    child{
+                        g{
+                            male,
+                            name = {Vishnu \nick{Bhajebaab}}
+                        }
+                        child{
+                            g{
+                                male,
+                                name = {Vaman \nick{Kinibaab}}
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Sacchit \nick{Sachi}}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Sitaram \nick{Chaka}}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Narayan}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Vaman \nick{Anand}}
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Hiru}
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Somnath}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Narayan \nick{Siddesh}}
+                                        }
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Sacchitanand \nick{Maya}}
+                                    }
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Vaikunt \nick{Detebaab}}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Durganand}
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Kishore}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Vaikunt \nick{Sairaj}}
+                                        }
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Ramakant}
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Deepak}
+                                    }
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Vishvambhar}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Bhagwant \nick{Bhobaibaab}}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Lakshman \nick{Katubaab}}
+                                }
+                            }
+                        }
+                        child{
+                            g{
+                                male,
+                                name = {Shantaram \nick{Gonibaab}}
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Kashinath \nick{Dada}}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Krishna \nick{Kikirbaab}}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Audhut}
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Ajit}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Jayesh}
+                                        }
+                                    }
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Vithu}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Kamalnath \nick{Kamlaksh}}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Gaurish}
+                                        }
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Viresh}
+                                        }
+                                    }
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Ganapati}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Raghuvir \nick{Babush}}
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Damodar \nick{Damubaab}}
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Umanath \nick{Umesh}}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Nilesh}
+                                        }
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Sailesh}
+                                        }
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Surendra}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Paresh}
+                                        }
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Nitesh}
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                child{
+                    g{
+                        male,
+                        name = {Hiru \nick{Hirubaab}}
+                    }
+                    child{
+                        g{
+                            male,
+                            name = {Rayu}
+                        }
+                        child{
+                            g{
+                                male,
+                                name = {Shankar \nick{Shankubaab}}
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Rayu}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Dattaram}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Shankar \nick{Uday}}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Dattaram \nick{Hanish}}
+                                        }
+                                    }
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Prakash}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Rayu}
+                                        }
+                                        child{
+                                            g{
+                                                male,
+                                                name = {Yogendra}
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    child{
+                        g{
+                            male,
+                            name = {Govind}
+                        }
+                        child{
+                            g{
+                                male,
+                                name = {Anand}
+                            }
+                        }
+                        child{
+                            g{
+                                male,
+                                name = {Narshinh}
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Suhas}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Avinash}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Parikshit}
+                                    }
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Vinay}
+                                }
+                            }
+                            child{
+                                g{
+                                    male,
+                                    name = {Ambarish}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    child{
+        g{
+            male,
+            name = {Shabaji}
+        }
+        child{
+            g{
+                male,
+                name = {}
+            }
+        }
+    }
 }
