@@ -31,7 +31,7 @@ child{
                         child{
                             p{
                                 female,
-                                name = {}
+                                name = {Radha ??}
                             }
                             g{
                                 male,
@@ -40,21 +40,31 @@ child{
                             child{
                                 g{
                                     male,
-                                    name = {Sripad \nick{Pado}}
+                                    name = {Sripad \nick{Pado}},
+                                    death += {}{}{typhoid}
+                                }
+                                p{
+                                    female,
+                                    name = {Shantai Kenkre}
                                 }
                             }
                             union{
                                 p{
                                     female,
-                                    name = {}
+                                    name = {?? \nick{Akka} \surn{Malkarnekar}}
                                 }
                                 c{
                                     female,
-                                    name = {Kama}
+                                    name = {Kama \surn{Saraf}}
                                 }
                                 c{
                                     female,
-                                    name = {Ramma}
+                                    name = {Vitabai ??},
+                                    death += {}{}{childhood}
+                                }
+                                c{
+                                    female,
+                                    name = {Ramma \surn{Kenkre}}
                                 }
                                 child{
                                     g{
@@ -63,7 +73,7 @@ child{
                                     }
                                     p{
                                         female,
-                                        name = {Sumanbai \surn{Malkarnekar}}
+                                        name = {Sumanbai \nick{Bai} \surn{Malkarnekar}}
                                     }
                                     c{
                                         female,
@@ -148,7 +158,7 @@ child{
                                 }
                                 c{
                                     female,
-                                    name = {Muktya}
+                                    name = {Muktya \surn{Prabhu Chodnekar}}
                                 }
                             }
                         }
@@ -504,7 +514,7 @@ child{
                                 }
                                 p{
                                     female,
-                                    name = {Sheetal \surn{?}}
+                                    name = {Sheetal \surn{??}}
                                 }
                                 child{
                                     g{
@@ -513,7 +523,7 @@ child{
                                     }
                                     p{
                                         female,
-                                        name = {Meera Wadwa}
+                                        name = {Meera \surn{Wadwa}}
                                     }
                                     child{
                                         g{
@@ -524,7 +534,7 @@ child{
                                 }
                                 c{
                                     female,
-                                    name = {Rameshwari Dessai}
+                                    name = {Rameshwari \surn{Dessai}}
                                 }
                             }
                             child{
@@ -535,11 +545,11 @@ child{
                             }
                             c{
                                 female,
-                                name = {Ratan Ghodekar}
+                                name = {Ratan \surn{Ghodekar}}
                             }
                             c{
                                 female,
-                                name = {Bharti Angle}
+                                name = {Bharti \surn{Angle}}
                             }
                             union{
                                 p{
