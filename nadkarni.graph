@@ -16,7 +16,7 @@ child{
             child{
                 g{
                     male,
-                    name = {Royu}
+                    name = {Rayu}
                 }
                 child{
                     g{
@@ -415,7 +415,7 @@ child{
                 child{
                     g{
                         male,
-                        name = {Hiru \nick{Hirubaab}}
+                        name = {Hiru \nick{Hirushenai}}
                     }
                     child{
                         g{
@@ -483,6 +483,10 @@ child{
                             }
                         }
                         child{
+                            p{
+                                female,
+                                name = {Manini \surn{Raikar}}
+                            }
                             g{
                                 male,
                                 name = {Narshinh}
@@ -498,11 +502,29 @@ child{
                                     male,
                                     name = {Avinash}
                                 }
+                                p{
+                                    female,
+                                    name = {Sheetal \surn{?}}
+                                }
                                 child{
                                     g{
                                         male,
                                         name = {Parikshit}
                                     }
+                                    p{
+                                        female,
+                                        name = {Meera Wadwa}
+                                    }
+                                    child{
+                                        g{
+                                            male,
+                                            name = {Tanav}
+                                        }
+                                    }
+                                }
+                                c{
+                                    female,
+                                    name = {Rameshwari Dessai}
                                 }
                             }
                             child{
@@ -511,10 +533,40 @@ child{
                                     name = {Vinay}
                                 }
                             }
-                            child{
-                                g{
-                                    male,
-                                    name = {Ambarish}
+                            c{
+                                female,
+                                name = {Ratan Ghodekar}
+                            }
+                            c{
+                                female,
+                                name = {Bharti Angle}
+                            }
+                            union{
+                                p{
+                                    female,
+                                    name = {Mirabai \surn{Sardessai}}
+                                }
+                                c{
+                                    female,
+                                    name = {Aarti \surn{Dalvi}}
+                                }
+                                child{
+                                    g{
+                                        male,
+                                        name = {Ambarish}
+                                    }
+                                    p{
+                                        female,
+                                        name = {Shoma \surn{Thali}}
+                                    }
+                                    c{
+                                        female,
+                                        name = {Kashmira}
+                                    }
+                                    c{
+                                        female,
+                                        name = {Gargi}
+                                    }
                                 }
                             }
                         }
