@@ -54,6 +54,10 @@ child{
                                     name = {??},
                                 }
                             }
+                            c{
+                                female,
+                                name = {?? \surn{Jingde}}
+                            }
                             union{
                                 p{
                                     female,
@@ -61,11 +65,11 @@ child{
                                 }
                                 c{
                                     female,
-                                    name = {Sita \nick{Kama} \surn{Saraf}}
+                                    name = {Sitabai \nick{Kama} \surn{Saraf}}
                                 }
                                 c{
                                     female,
-                                    name = {Vita},
+                                    name = {Vitabai},
                                     death += {}{}{typhoid}
                                 }
                                 c{
@@ -521,7 +525,7 @@ child{
                                 }
                                 p{
                                     female,
-                                    name = {Sheetal \surn{??}}
+                                    name = {Sheetal \surn{Kamat}}
                                 }
                                 child{
                                     g{
