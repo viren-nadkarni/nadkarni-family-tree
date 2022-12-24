@@ -28,6 +28,10 @@ child{
                             male,
                             name = {Purshottam}
                         }
+                        p{
+                            female,
+                            name = {Shanta \surn{??}}
+                        }
                         child{
                             p{
                                 female,
@@ -41,7 +45,7 @@ child{
                                 g{
                                     male,
                                     name = {Sripad \nick{Pado}},
-                                    death += {}{}{typhoid},
+                                    death+ = {}{}{typhoid},
                                     comment = {worked in Canacona, contracted typhoid at work}
                                 }
                                 p{
@@ -61,7 +65,8 @@ child{
                             union{
                                 p{
                                     female,
-                                    name = {?? \nick{Aka} \surn{Chodnekar}}
+                                    name = {?? \nick{Aka} \surn{Chodnekar}},
+                                    death+ = {}{}{cancer},
                                 }
                                 c{
                                     female,
@@ -70,7 +75,7 @@ child{
                                 c{
                                     female,
                                     name = {Vitabai},
-                                    death += {}{}{typhoid}
+                                    death+ = {}{}{typhoid},
                                 }
                                 c{
                                     female,
@@ -79,62 +84,85 @@ child{
                                 child{
                                     g{
                                         male,
-                                        name = {Dinanath \nick{Dinubaab}}
+                                        name = {Dinanath \nick{Dinubaab}},
+                                        birth- = {1922},
+                                        marriage- = {1951},
+                                        death- = {2004},
                                     }
                                     p{
                                         female,
                                         name = {Sumanbai \nick{Bai} \surn{Malkarnekar}},
-                                        death += {2016}{}{}
+                                        birth- = {1931},
+                                        marriage- = {1951},
+                                        death- = {2016},
                                     }
                                     c{
                                         female,
-                                        name = {Sushma \nick{Shanta} \surn{Kantak}}
+                                        name = {Sushma \nick{Shanta} \surn{Kantak}},
+                                        birth- = {1952},
                                     }
                                     child{
                                         g{
                                             male,
-                                            name = {Durgadas}
+                                            name = {Durgadas},
+                                            birth- = {1954},
+                                            marriage- = {1985},
                                         }
                                         p{
                                             female,
-                                            name = {Bharti \surn{Bhonsule}}
+                                            name = {Bharti \surn{Bhonsule}},
+                                            birth- = {1954},
+                                            marriage- = {1985},
                                         }
                                         c{
                                             female,
-                                            name = {Srisiddhi \surn{Kamat Satoskar}}
+                                            name = {Srisiddhi \surn{Kamat Satoskar}},
+                                            marriage- = {2009},
+                                            birth- = {1986},
                                         }
                                         child{
                                             g{
                                                 male,
-                                                name = {Tejas}
+                                                name = {Tejas},
+                                                birth- = {1991},
+                                                marriage- = {2021},
                                             }
                                             p{
                                                 female,
-                                                name = {Isha \surn{Rao}}
+                                                name = {Isha \surn{Rao}},
+                                                birth- ={1993},
+                                                marriage- = {2021},
                                             }
                                         }
                                     }
                                     c{
                                         female,
-                                        name = {Nilima \surn{Mungrey}}
+                                        name = {Nilima \surn{Mungrey}},
+                                        birth- = {1955},
                                     }
                                     child{
                                         g{
                                             male,
-                                            name = {Sripad}
+                                            name = {Sripad},
+                                            birth- = {1956},
+                                            marriage- = {1987},
                                         }
                                         p{
                                             female,
-                                            name = {Manuja \surn{Kare}}
+                                            name = {Manuja \surn{Kare}},
+                                            marriage- = {1987},
                                         }
                                         c{
                                             female,
-                                            name = {Tanusha \surn{Kamat}}
+                                            name = {Tanusha \surn{Kamat}},
+                                            marriage- = {2015},
+                                            birth- = {1988},
                                         }
                                         child{
                                             g{
                                                 male,
-                                                name = {Siddhant}
+                                                name = {Siddhant},
+                                                birth- = {1995},
                                             }
                                             p{
                                                 female,
@@ -145,25 +173,35 @@ child{
                                     child{
                                         g{
                                             male,
-                                            name = {Vijaikumar}
+                                            name = {Vijaikumar},
+                                            birth- = {1960},
+                                            marriage- = {1990},
                                         }
                                         p{
                                             female,
-                                            name = {Chandan \surn{Kamat}}
+                                            name = {Chandan \surn{Kamat}},
+                                            birth- = {1967},
+                                            marriage- = {1990},
                                         }
                                         child{
                                             g{
                                                 male,
-                                                name = {Viren}
+                                                name = {Viren},
+                                                birth- = {1992},
+                                                marriage- = {2023},
                                             }
                                             p{
                                                 female,
-                                                name = {Prachi \surn{Dalvi}}
+                                                name = {Prachi \surn{Dalvi}},
+                                                birth- = {1996},
+                                                marriage- = {2023},
                                             }
                                         }
                                         c{
                                             female,
-                                            name = {Shivani \surn{Amonkar}}
+                                            name = {Shivani \surn{Amonkar}},
+                                            birth- = {1996},
+                                            marriage- = {2023},
                                         }
                                     }
                                 }

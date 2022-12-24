@@ -16,11 +16,16 @@
 }
 
 \begin{document}
+
+	\renewcommand\gtrsymDied{\gtrsymFloruit}
+
 	\begin{inctext}
 	\begin{tikzpicture}
 		\genealogytreeinput[
 			template=database traditional,
 			date format=yyyy,
+			%database format=short,
+			database format=name,
 		]{nadkarni.graph}
 
 		\path
@@ -46,6 +51,7 @@
 
 				Date: \today \\
 				Source: \href{https://github.com/viren-nadkarni/nadkarni-family-tree}{https://github.com/viren-nadkarni/nadkarni-family-tree}
+				%Legend: \gtrsymBorn=birth, \gtrsymDied=death, \gtrsymMarried=marriage
 			\end{tcolorbox}
 		};
 
