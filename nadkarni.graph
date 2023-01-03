@@ -30,16 +30,18 @@ child{
                         }
                         p{
                             female,
-                            name = {Shanta \surn{??}}
+                            name = {Shantabai \surn{??}},
                         }
                         child{
                             p{
                                 female,
-                                name = {Radha \surn{Sardessai}}
+                                name = {?? \surn{Sardessai}},
+                                death+ = {}{}{cancer},
                             }
                             g{
                                 male,
-                                name = {Anant \nick{Zallebaab}}
+                                name = {Anant \nick{Zallebaab}},
+                                death- = {1940-11-18},
                             }
                             child{
                                 g{
@@ -65,27 +67,28 @@ child{
                             union{
                                 p{
                                     female,
-                                    name = {?? \nick{Aka} \surn{Chodnekar}},
-                                    death+ = {}{}{cancer},
+                                    name = {Radabai \surn{Chodnekar}},
+                                    death- = {1950-09-22},
                                 }
                                 c{
                                     female,
-                                    name = {Sitabai \nick{Kama} \surn{Saraf}}
+                                    name = {Sitabai \nick{Kama} \surn{Saraf}},
                                 }
                                 c{
                                     female,
                                     name = {Vitabai},
-                                    death+ = {}{}{typhoid},
+                                    death+ = {1936-08-31}{}{typhoid},
                                 }
                                 c{
                                     female,
-                                    name = {Ramma \surn{Kenkre}}
+                                    name = {Manorama \nick{Rama} \surn{Kenkre}},
+                                    marriage- = {1942-12-23},
                                 }
                                 child{
                                     g{
                                         male,
                                         name = {Dinanath \nick{Dinubaab}},
-                                        birth- = {1922},
+                                        birth- = {1922-12-25},
                                         marriage- = {1951},
                                         death- = {2004},
                                     }
@@ -100,11 +103,12 @@ child{
                                         female,
                                         name = {Sushma \nick{Shanta} \surn{Kantak}},
                                         birth- = {1952},
+                                        marriage- = {1977-09-07},
                                     }
                                     child{
                                         g{
                                             male,
-                                            name = {Durgadas},
+                                            name = {Durgadas \nick{Anant}},
                                             birth- = {1954},
                                             marriage- = {1985},
                                         }
@@ -139,6 +143,7 @@ child{
                                         female,
                                         name = {Nilima \surn{Mungrey}},
                                         birth- = {1955},
+                                        marriage- = {1980-10-10},
                                     }
                                     child{
                                         g{
@@ -166,7 +171,7 @@ child{
                                             }
                                             p{
                                                 female,
-                                                name = {Shikha \surn{Usgaonkar}}
+                                                name = {Shikha \surn{Usgaonkar}},
                                             }
                                         }
                                     }
@@ -188,26 +193,28 @@ child{
                                                 male,
                                                 name = {Viren},
                                                 birth- = {1992},
-                                                marriage- = {2023},
+                                                marriage- = {2022},
                                             }
                                             p{
                                                 female,
                                                 name = {Prachi \surn{Dalvi}},
                                                 birth- = {1996},
-                                                marriage- = {2023},
+                                                marriage- = {2022},
                                             }
                                         }
                                         c{
                                             female,
                                             name = {Shivani \surn{Amonkar}},
                                             birth- = {1996},
-                                            marriage- = {2023},
+                                            marriage- = {2022},
                                         }
                                     }
                                 }
                                 c{
                                     female,
-                                    name = {Muktya \surn{Prabhu Chodnekar}}
+                                    name = {Muktabai \surn{Prabhu Chodnekar}},
+                                    birth- = {1927-09-03},
+                                    marriage- = {1948-12-15},
                                 }
                             }
                         }
