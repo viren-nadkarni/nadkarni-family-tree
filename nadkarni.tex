@@ -22,12 +22,16 @@
 	\begin{inctext}
 	\begin{tikzpicture}
 		\genealogytreeinput[
-			template=database traditional,
+			processing=database,
 			date format=yyyy,
 			%database format=short,
 			database format=name,
+			insert phantom for childless families,
+			node size=2cm,level size=1cm,
+			box={halign=flush center,valign=center,\gtrDBsex}
 		]{nadkarni.graph}
 
+		% borders
 		\path
 		([xshift=-1cm,yshift=-1.16cm]current bounding box.south west)
 		rectangle ([xshift=1.16cm,yshift=1cm]current bounding box.north east);
@@ -36,6 +40,7 @@
 		([xshift=3mm,yshift=3mm]current bounding box.south west)
 		rectangle ([xshift=-3mm,yshift=-3mm]current bounding box.north east);
 
+		% description box
 		\node[below right] at ([xshift=1cm,yshift=-1cm]current bounding box.north west) {
 			\begin{tcolorbox}[
 				enhanced,
