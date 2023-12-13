@@ -11,7 +11,7 @@
 \usepackage[all]{genealogytree}
 
 \hypersetup{
-	pdftitle={Bendkar Nadkarni Family Tree},
+	pdftitle={Nadkarni Family Tree},
 	pdfauthor={Viren Nadkarni}
 }
 
@@ -22,13 +22,14 @@
 	\begin{inctext}
 	\begin{tikzpicture}
 		\genealogytreeinput[
-			processing=database,
+			%%processing=database,
+			template=database traditional,
 			date format=yyyy,
 			%database format=short,
 			database format=name,
 			insert phantom for childless families,
-			node size=2cm,level size=1cm,
-			box={halign=flush center,valign=center,\gtrDBsex}
+			%%node size=2cm,level size=1cm,
+			%%box={halign=flush center,valign=center,\gtrDBsex}
 		]{nadkarni.graph}
 
 		% borders
@@ -51,7 +52,7 @@
 				segmentation style={solid,shorten >=3mm,shorten <=3mm},
 			]
 				\begin{center}
-					\bfseries\Large\color{black} Bendkar Nadkarni Family Tree
+					\bfseries\Large\color{black} Nadkarni Family Tree
 				\end{center}
 
 				Date: \today \\

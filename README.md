@@ -1,8 +1,10 @@
 # nadkarni-family-tree
 
-[Family tree for Bendkar Nadkarni (PDF)](https://raw.githubusercontent.com/viren-nadkarni/nadkarni-family-tree/master/nadkarni.pdf)
+[Nadkarni Family tree (PDF)](https://raw.githubusercontent.com/viren-nadkarni/nadkarni-family-tree/master/nadkarni.pdf)
 
 [Original](original.png) compiled by Sacchitanand "Mayabaab"
+
+Credits to Guruprasad Namshikar
 
 ---
 
