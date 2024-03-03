@@ -22,11 +22,11 @@
 	\begin{inctext}
 	\begin{tikzpicture}
 		\genealogytreeinput[
-			%%processing=database,
+			processing=database,
 			template=database traditional,
 			date format=yyyy,
-			%database format=short,
-			database format=name,
+			%database format=short,  % name and dates
+			database format=name,  % only name
 			insert phantom for childless families,
 			%%node size=2cm,level size=1cm,
 			%%box={halign=flush center,valign=center,\gtrDBsex}
@@ -56,8 +56,8 @@
 				\end{center}
 
 				Date: \today \\
-				Source: \href{https://github.com/viren-nadkarni/nadkarni-family-tree}{https://github.com/viren-nadkarni/nadkarni-family-tree}
-				%Legend: \gtrsymBorn=birth, \gtrsymDied=death, \gtrsymMarried=marriage
+				Source: \href{https://github.com/viren-nadkarni/nadkarni-family-tree}{https://github.com/viren-nadkarni/nadkarni-family-tree} \\
+				Legend: \gtrsymBorn=birth, \gtrsymDied=death, \gtrsymMarried=marriage
 			\end{tcolorbox}
 		};
 

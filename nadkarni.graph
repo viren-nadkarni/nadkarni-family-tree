@@ -231,6 +231,7 @@ child{
                                                 male,
                                                 name = {Siddhant},
                                                 birth- = {1995},
+                                                marriage- = {2023},
                                             }
                                             p{
                                                 female,
@@ -456,7 +457,7 @@ child{
                                 child{
                                     g{
                                         male,
-                                        name = {Vaman \nick{Anand}}
+                                        name = {Vaman \nick{Anand}},
                                         death- = {2008},
                                     }
                                     p{
@@ -785,6 +786,7 @@ child{
                                             female,
                                             name = {Archana},
                                             birth- = {1973},
+                                            marriage- = {1995},
                                         }
                                         p{
                                             male,
