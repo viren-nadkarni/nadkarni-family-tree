@@ -326,13 +326,7 @@ child{
                                 child{
                                     g{
                                         female,
-                                        name = {Aparna},
-                                    }
-                                }
-                                child{
-                                    g{
-                                        female,
-                                        name = {Kalyan},
+                                        name = {Kalyan \nick{Leena}},
                                     }
                                     p{
                                         male,
