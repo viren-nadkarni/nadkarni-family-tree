@@ -23,7 +23,7 @@ child{
             child{
                 g{
                     male,
-                    name = {Rayu}
+                    name = {Rayuji \nick{Rayu}}
                 }
                 p{
                     female,
@@ -1058,7 +1058,7 @@ child{
                 child{
                     g{
                         male,
-                        name = {Hiru \nick{Hirushenai}}
+                        name = {Hiruji \nick{Hirushenoy}}
                     }
                     p{
                         female,
@@ -1379,11 +1379,22 @@ child{
                 }
             }
         }
+        child{
+            g{
+                male,
+                name = {Shabaji}
+            }
+            child{
+                g{
+                    name = {}
+                }
+            }
+        }
     }
     child{
         g{
             male,
-            name = {Shabaji}
+            name = {Vithoba}
         }
         child{
             g{
