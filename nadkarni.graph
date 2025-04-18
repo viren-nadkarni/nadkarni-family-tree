@@ -186,6 +186,13 @@ child{
                                                 birth- ={1993},
                                                 marriage- = {2021},
                                             }
+                                            child{
+                                                g{
+                                                    female,
+                                                    name = {Idaya \nick{Suman}},
+                                                    birth- = {2025},
+                                                }
+                                            }
                                         }
                                     }
                                     child{
